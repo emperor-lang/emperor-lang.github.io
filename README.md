@@ -9,7 +9,8 @@ Both user-level and technical documentation has been made and links are listed b
 Some of the items created to complete the project have their own page.
 These provide instructions on how to use each of them.
 
-- [`emperor`](https://emperor-lang.github.io/emperor/)
+- [`emperor`](https://emperor-lang.github.io/emperor/), homepage for the Emperor compiler
+- [Emperor language support](https://marketplace.visualstudio.com/items?itemName=kcza.emperor-language-support), a VSCode extension to facilitate the writing of Emperor programs
 
 ## Documentation
 
