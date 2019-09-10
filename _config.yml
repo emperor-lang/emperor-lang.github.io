@@ -1,1 +1,5 @@
+title: Emperor-Lang
+description: > 
+  Emperor-lang is an open-source project to create a lightweight, imperative langauge with an explicit notion of purity.
+  An expressive type-system is also provided.
 theme: jekyll-theme-slate
