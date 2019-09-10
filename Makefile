@@ -19,7 +19,7 @@ publish: ./docs/emperor/index.html ./docs/emperor-base/index.html ./.docs/empero
 	make -C ./.src/emperor-base/ doc
 
 ./.docs/emperor-setup/index.html: ./.src/emperor-setup/dist/doc/html/index.html ./docs/
-	cp -r ./.src/emperor-setup/dist/doc/html/ ./docs/emperor-setup/
+	cp -r ./.src/emperor-setup/dist/doc/html/emperor-setup/emperor-setup/ ./docs/
 
 ./.src/emperor-setup/dist/doc/html/index.html:
 	make -C ./.src/emperor-setup/ doc
