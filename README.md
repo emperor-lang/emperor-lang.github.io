@@ -2,11 +2,12 @@
 
 This is the home-page of the Emperor project, which aims to create the language, 'emperor,' and surrounding support tools.
 
+Both user-level and technical documentation has been made and links are listed below.
+
 ## Home pages
 
 Some of the items created to complete the project have their own page.
 These provide instructions on how to use each of them.
-Technical documentation is seen later.
 
 - [`emperor`](https://emperor-lang.github.io/emperor/)
 
