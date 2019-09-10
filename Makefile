@@ -7,7 +7,7 @@ publish: ./docs/emperor/index.html ./docs/emperor-base/index.html
 .PHONY: publish
 
 ./docs/emperor/index.html: ./.src/emperor/dist/doc/html/emperor/emperor/index.html ./docs/
-	cp -r ./.src/emperor/dist/doc/html/emperor/ ./docs/emperor/
+	cp -r ./.src/emperor/dist/doc/html/emperor/emperor/ ./docs/
 
 ./.src/emperor/dist/doc/html/emperor/emperor/index.html:
 	make -C ./.src/emperor/ doc
