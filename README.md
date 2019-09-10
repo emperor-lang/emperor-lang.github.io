@@ -16,5 +16,5 @@ These provide instructions on how to use each of them.
 The following are links to the various documentation sites generated from work on this project.
 
 - [`emperor`](./docs/emperor/index.html), the compiler for the Emperor language
-- [`emperor-setup`](./docs/emperor-setup/index.html), the compiler for the Emperor language
+- [`emperor-setup`](./docs/emperor-setup/index.html), the package manager for the Emperor language
 - [`emperor-base`](./docs/emperor-base/index.html), the base library for the Emperor language (upon which compiler assumptions may be based)
