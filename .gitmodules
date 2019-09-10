@@ -1,3 +1,6 @@
 [submodule ".src/emperor"]
 	path = .src/emperor
 	url = git@github.com:/emperor-lang/emperor
+[submodule ".src/emperor-base"]
+	path = .src/emperor-base
+	url = git@github.com:/emperor-lang/base
