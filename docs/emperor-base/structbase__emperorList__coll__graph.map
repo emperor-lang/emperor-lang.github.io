@@ -1,0 +1,4 @@
+<map id="base_emperorList" name="base_emperorList">
+<area shape="rect" id="node2" href="$structbase__emperorListNode.html" title="Stores a single value in a doubly linked list. " alt="" coords="5,96,180,123"/>
+<area shape="rect" id="node3" href="$structbase__any.html" title="Holds a single emperor value so it may be reasoned about in a generic way. " alt="" coords="50,5,135,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="startup/base_onStartup.h" name="startup/base_onStartup.h">
+<area shape="rect" id="node2" href="$base-signal-handler_8h.html" title="Provides prototypes for a default signal handler. " alt="" coords="260,80,431,121"/>
+<area shape="rect" id="node11" href="$base__onExit_8h.html" title="Provides prototypes for Emperor exit handlers under normal conditions. " alt="" coords="455,87,569,114"/>
+<area shape="rect" id="node8" href="$base-banned_8h.html" title="A list of security bans. " alt="" coords="505,169,695,196"/>
+<area shape="rect" id="node10" href="$base-unused_8h.html" title="Defines macros to mark parameters as unused. Cleanly avoids warnings. " alt="" coords="719,169,907,196"/>
+</map>

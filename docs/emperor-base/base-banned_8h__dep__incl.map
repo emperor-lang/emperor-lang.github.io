@@ -1,0 +1,7 @@
+<map id="banned/base&#45;banned.h" name="banned/base&#45;banned.h">
+<area shape="rect" id="node2" href="$base-signal-handler_8h.html" title="Provides prototypes for a default signal handler. " alt="" coords="221,80,376,121"/>
+<area shape="rect" id="node4" href="$base_8h.html" title="Includes all headers in the base library. " alt="" coords="300,259,367,285"/>
+<area shape="rect" id="node3" href="$base__onStartup_8h.html" title="Provides prototypes for functions called when Emperor starts up. " alt="" coords="5,177,197,203"/>
+<area shape="rect" id="node6" href="$base-signal-handler_8c.html" title="Defines a default signal handler. " alt="" coords="221,169,376,211"/>
+<area shape="rect" id="node5" href="$base__onStartup_8c.html" title="Provides functions to call at the start of every Emperor program. " alt="" coords="6,259,197,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="unused/base&#45;unused.h" name="unused/base&#45;unused.h">
+<area shape="rect" id="node2" href="$base-io_8h.html" title="Provides prototypes for basic I/O operations for Emperor. " alt="" coords="22,87,125,114"/>
+<area shape="rect" id="node3" href="$base_8h.html" title="Includes all headers in the base library. " alt="" coords="155,259,222,285"/>
+<area shape="rect" id="node5" href="$base-lists_8h.html" title="Provides prototypes for functions on lists. " alt="" coords="201,87,333,114"/>
+<area shape="rect" id="node7" href="$base-signal-handler_8h.html" title="Provides prototypes for a default signal handler. " alt="" coords="424,80,579,121"/>
+<area shape="rect" id="node4" href="$base-io_8c.html" title="Basic I/O operations for Emperor. " alt="" coords="24,177,126,203"/>
+<area shape="rect" id="node6" href="$base-lists_8c.html" title="Defines functions to create, handle and destroy lists. " alt="" coords="251,177,382,203"/>
+<area shape="rect" id="node8" href="$base__onStartup_8h.html" title="Provides prototypes for functions called when Emperor starts up. " alt="" coords="406,177,598,203"/>
+<area shape="rect" id="node10" href="$base-signal-handler_8c.html" title="Defines a default signal handler. " alt="" coords="622,169,776,211"/>
+<area shape="rect" id="node9" href="$base__onStartup_8c.html" title="Provides functions to call at the start of every Emperor program. " alt="" coords="406,259,597,285"/>
+</map>

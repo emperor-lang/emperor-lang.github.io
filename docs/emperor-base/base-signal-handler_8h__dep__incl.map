@@ -1,0 +1,6 @@
+<map id="signal&#45;handler/base&#45;signal&#45;handler.h" name="signal&#45;handler/base&#45;signal&#45;handler.h">
+<area shape="rect" id="node2" href="$base__onStartup_8h.html" title="Provides prototypes for functions called when Emperor starts up. " alt="" coords="19,102,211,129"/>
+<area shape="rect" id="node5" href="$base-signal-handler_8c.html" title="Defines a default signal handler. " alt="" coords="235,95,389,136"/>
+<area shape="rect" id="node3" href="$base_8h.html" title="Includes all headers in the base library. " alt="" coords="5,184,72,211"/>
+<area shape="rect" id="node4" href="$base__onStartup_8c.html" title="Provides functions to call at the start of every Emperor program. " alt="" coords="97,184,287,211"/>
+</map>

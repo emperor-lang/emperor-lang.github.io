@@ -1,0 +1,7 @@
+<map id="startup/base_onStartup.c" name="startup/base_onStartup.c">
+<area shape="rect" id="node2" href="$base__onStartup_8h.html" title="Provides prototypes for functions called when Emperor starts up. " alt="" coords="443,80,581,107"/>
+<area shape="rect" id="node3" href="$base-signal-handler_8h.html" title="Provides prototypes for a default signal handler. " alt="" coords="260,155,431,196"/>
+<area shape="rect" id="node12" href="$base__onExit_8h.html" title="Provides prototypes for Emperor exit handlers under normal conditions. " alt="" coords="455,162,569,189"/>
+<area shape="rect" id="node9" href="$base-banned_8h.html" title="A list of security bans. " alt="" coords="505,244,695,271"/>
+<area shape="rect" id="node11" href="$base-unused_8h.html" title="Defines macros to mark parameters as unused. Cleanly avoids warnings. " alt="" coords="719,244,907,271"/>
+</map>
