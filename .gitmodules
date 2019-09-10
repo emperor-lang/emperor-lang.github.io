@@ -4,3 +4,6 @@
 [submodule ".src/emperor-base"]
 	path = .src/emperor-base
 	url = https://github.com/emperor-lang/base
+[submodule ".src/emperor-setup"]
+	path = .src/emperor-setup
+	url = https://github.com/emperor-lang/emperor-setup

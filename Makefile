@@ -3,7 +3,7 @@
 .DEFAULT_GOAL := publish
 DATE = $(shell date -u +%s)
 
-publish: ./docs/emperor/index.html ./docs/emperor-base/index.html
+publish: ./docs/emperor/index.html ./docs/emperor-base/index.html ./.docs/emperor-setup/index.html
 .PHONY: publish
 
 ./docs/emperor/index.html: ./.src/emperor/dist/doc/html/emperor/emperor/index.html ./docs/
@@ -12,15 +12,21 @@ publish: ./docs/emperor/index.html ./docs/emperor-base/index.html
 ./.src/emperor/dist/doc/html/emperor/emperor/index.html:
 	make -C ./.src/emperor/ doc
 
-./docs/emperor-base/index.html: ./.src/emperor-base/doc/html/index.html
+./docs/emperor-base/index.html: ./.src/emperor-base/doc/html/index.html ./docs/
 	cp -r ./.src/emperor-base/doc/html/ ./docs/emperor-base/
 
 ./.src/emperor-base/doc/html/index.html:
 	make -C ./.src/emperor-base/ doc
 
+./.docs/emperor-setup/index.html: ./.src/emperor-setup/dist/doc/html/index.html ./docs/
+	cp -r ./.src/emperor-setup/dist/doc/html/ ./docs/emperor-setup/
+
+./.src/emperor-setup/dist/doc/html/index.html:
+	make -C ./.src/emperor-setup/ doc
+
 ./docs/:
 	mkdir $@
 
 clean:
-	$(RM) -r ./docs/ ./.src/emperor/dist/doc ./.src/emperor-base/doc
+	$(RM) -r ./docs/ ./.src/emperor/dist/doc ./.src/emperor-setup/dist/doc ./.src/emperor-base/doc
 .PHONY: clean
