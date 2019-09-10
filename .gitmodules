@@ -1,0 +1,3 @@
+[submodule ".src/emperor"]
+	path = .src/emperor
+	url = git@github.com:/emperor-lang/emperor
